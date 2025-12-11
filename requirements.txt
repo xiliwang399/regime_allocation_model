@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+hmmlearn
+scikit-learn
+scipy
+openpyxl
+statsmodels
+pyyaml
